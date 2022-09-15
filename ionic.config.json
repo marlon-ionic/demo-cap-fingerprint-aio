@@ -1,0 +1,7 @@
+{
+  "name": "demo-cap-fingerprint-aio",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
