@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-import { FingerprintAIO } from '@ionic-native/fingerprint-aio/ngx';
+import { FingerprintAIO } from '@awesome-cordova-plugins/fingerprint-aio/ngx';
 
 @Component({
   selector: 'app-home',
